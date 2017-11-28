@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Xoxoday.Static_Variable"/>
+<fullyQualifiedTypeName name="org.apache.jackrabbit.webdav.WebdavRequest"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="project.fbbonline.comPages.WomenCategoryPage"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.reverse"/>
+<fullyQualifiedTypeName name="garbageCollection.Garbage1"/>
+<fullyQualifiedTypeName name="Final.ParentClass"/>
+<fullyQualifiedTypeName name="Final.SubClass1"/>
+<fullyQualifiedTypeName name="constructor.Parent"/>
+<fullyQualifiedTypeName name="staticProperty.StaticClass"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.specification.RequestSpecification"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.http.ContentType"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.response.Response"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="org.apache.http.conn.ssl.BrowserCompatHostnameVerifier"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+</qualifiedTypeNameHistroy>

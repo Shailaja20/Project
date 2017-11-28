@@ -1,0 +1,22 @@
+package project.fbbonline.comPages;
+
+import org.openqa.selenium.WebDriver;
+
+public class WomenCategoryPage {
+	
+	public WebDriver driver;
+	
+	public WomenCategoryPage(WebDriver driver) {
+		this.driver=driver;
+	}
+	
+
+	private String lnkWomen="//span[text()='Women']/..";
+	
+	private String cmbPatternxpath="//*[@id='facet_pattern']/div[1]";
+	
+	public void getPatternList() {
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package project.fbbonline.comTest;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import project.fbbonline.comPages.WomenCategoryPage;
+
+public class WomenCategoryTests {
+	
+	public WebDriver driver;
+	
+/*	WomenCategoryPage women=new WomenCategoryPage(driver);
+	
+	WomenCategoryPage page=new WomenCategoryPage(driver);*/
+	
+	@Test
+	public void openbrowser() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Tools\\chromedriver_win32 (1)\\chromedriver.exe");
+		driver.get("http://google.com");
+		driver.findElement(By.id("lst-ib")).sendKeys("tutorial");
+		driver.findElement(By.id(".//*[@value='Google Search']")).click();
+		System.out.println("Current Page Title is : " + driver.getCurrentUrl());
+		driver.navigate().back();
+	}
+
+}
