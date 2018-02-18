@@ -7,6 +7,7 @@ package constructor;
 	    public Parent(String n) 
 	    {
 	        name = n;
+	        System.out.println("Parent Class Constructor is called");
 	    }
 	    
 	}
